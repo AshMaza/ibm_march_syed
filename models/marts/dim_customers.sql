@@ -26,3 +26,4 @@ final as (
             on nation.region_id = region.region_id
 )
 select * from final
+
